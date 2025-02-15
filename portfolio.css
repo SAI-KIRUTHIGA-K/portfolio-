@@ -1,0 +1,27 @@
+ul{
+    margin-left:60%;
+}
+
+ul,li,h1{
+    display:inline;
+}
+li{
+    justify-content: space-around;
+    display: inline;
+    cursor: pointer;
+    column-gap:3cm;
+    flex-wrap: wrap;
+}
+.name{
+    margin: top 100%;
+    color: blueviolet;
+    text-align: center;
+    background-color: azure;
+    margin-bottom: 50%;
+    padding-top:100px;
+}
+.first-division{
+    padding:80px;
+    margin:80px;
+    
+}
